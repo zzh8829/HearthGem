@@ -8,6 +8,7 @@ This project is for research purpose only. Do not use it against HearthStone EUL
 Thanks
 ======
 DarthTon/Blackbone for windows memory hacking
+
 gamebooster/mono-assembly-injector for mono dll injection
 
 
