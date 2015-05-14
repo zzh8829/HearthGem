@@ -23,15 +23,9 @@
 *.lib
 
 # Executables
-<<<<<<< HEAD
 #*.exe
 *.out
 *.app
 
 contrib/
 
-=======
-*.exe
-*.out
-*.app
->>>>>>> b0122bdae6981eb6ef51c97c00a65161b46e7af1
